@@ -1,4 +1,4 @@
-Live Weather Citie Project-->
+Live Weather Cities Project-->
 
 - City Addition: Easily add new cities through an intuitive input field and the "Add" button. validates inputs to ensure they're not empty and have not been added before.
 - Live Weather Cards: Each city you add comes to life with a dedicated weather card. 
